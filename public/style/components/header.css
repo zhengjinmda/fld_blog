@@ -1,0 +1,34 @@
+.header {
+    background-color: #fff;
+    /* filter:alpha(Opacity=10);
+    -moz-opacity:0.5;
+    opacity: 0.5; */
+    padding: .4rem;
+    overflow: hidden;
+    height: 3.4rem;
+    border-bottom: 1px solid #ccc;
+}
+
+.header-logo {
+    color: #1e90ff;
+    font-size: 1.6rem;
+    text-align: left;
+    font-weight: bold;
+}
+
+.header-txt {
+    font-size: .8rem;
+    color: #999;
+    display: inline-block;
+    padding-left: .8rem;
+}
+
+.ant-meu {
+    line-height: 3.4rem;
+}
+
+.ant-meu-item {
+    font-size: .9rem !important;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
